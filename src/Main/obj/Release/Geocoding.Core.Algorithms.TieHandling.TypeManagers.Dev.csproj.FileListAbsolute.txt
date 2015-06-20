@@ -1,0 +1,6 @@
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.TypeManagers\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.TieHandling.TypeManagers.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.TypeManagers\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.TieHandling.TypeManagers.dll.config
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.TypeManagers\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.TieHandling.TypeManagers.dll
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.TypeManagers\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.TieHandling.TypeManagers.pdb
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.TypeManagers\src\Main\obj\Release\Geocoding.Core.Algorithms.TieHandling.TypeManagers.Dev.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.TypeManagers\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.TieHandling.TypeManagers.pdb
